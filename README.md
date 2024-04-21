@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kissas2koala
+- 👋 Hi, I’m @Kissas277
 - 👀 I’m interested in ML\RL
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
